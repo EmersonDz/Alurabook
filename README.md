@@ -23,3 +23,16 @@ Projeto desenvolvido como parte dos estudos de responsividade com a abordagem *m
 - HTML5
 - CSS3
 - JavaScript
+
+🧠 Aprendizados
+Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
+
+Estruturação de páginas com HTML semântico
+
+Estilização com CSS, incluindo Flexbox e Media Queries
+
+Práticas de design responsivo com foco em mobile-first
+
+Organização de arquivos e versionamento com Git
+👨‍💻 Autor
+Desenvolvido por Emerson.
