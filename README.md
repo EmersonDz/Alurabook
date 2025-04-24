@@ -9,7 +9,7 @@ Projeto desenvolvido como parte dos estudos de responsividade com a abordagem *m
 
 ## 🖼️ Preview
 
-![Preview do AluraBooks](./assets/preview.png)
+![Preview do AluraBooks](./assets/preview.png.jpeg)
 
 ## 🚀 Funcionalidades
 
